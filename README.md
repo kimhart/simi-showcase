@@ -1,1 +1,1 @@
-# simi-showcase
+# Simi Showcase
